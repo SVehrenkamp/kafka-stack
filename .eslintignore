@@ -1,0 +1,14 @@
+client/assets/static/header.css
+client/assets/static/header.js
+public/static/header.css
+public/static/header.js
+
+.git/*
+.tmp/*
+__fixtures__/*
+*/node_modules/*
+dist/*
+server/dist/*
+node_modules/*
+blueprints/*
+plugins/*
